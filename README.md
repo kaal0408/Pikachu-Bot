@@ -11,15 +11,15 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/7e61fe06a9c02747249c4.jpg">
+  <img src="https://telegra.ph/file/189e33de2ca2551a89622.jpg">
 </p>
 
-# YoneRobot
-Me On Telegram [✨Yone✨](https://t.me/YoneRobot)
+# Pikachu
+Me On Telegram [✨Pikachu✨](https://t.me/Pikachu_X_bot)
 
 ## How To Host
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/noob-kittu/YoneRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/kaal0408/Pikachu-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
 CREDITS
 ```
@@ -27,7 +27,7 @@ CREDITS
 ❤️ DaisyX = Inuka
 ❤️ TheHamkerCat = WBB
 
-This Bot Is Created By @A_Viyu ! if your kanging this without fork at least give a credit to get a smile of my hard work.
+This Bot Is Created By @Murat_30_God ! if your kanging this without fork at least give a credit to get a smile of my hard work.
 
 
 
